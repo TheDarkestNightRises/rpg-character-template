@@ -1,16 +1,16 @@
 # RPGCharacterTemplate
 
-🎮 Project Description:
+##🎮 Project Description:
 A UE4 mage character template. This mage can perform spells and heal.
 
-🎯 Requiremts:
+##🎯 Features:
 - Character can run
 - Character can cast fireballs to throw at enemy
 - Character has mana bar, regen bar
 - Heal ability
 - Pickups for mana / health
 
-🕹 Gameplay Screenshoots: 
+##🕹 Gameplay Screenshoots: 
 
 ![image](https://user-images.githubusercontent.com/91905169/194721625-cf78972a-db83-4d07-b8f6-3abbd477afcc.png)
 
